@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556022123095",
+    "project_id": "plasto-28580",
+    "storage_bucket": "plasto-28580.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556022123095:android:b2a368177bdbef2b6df112",
+        "android_client_info": {
+          "package_name": "com.example.greenearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfE2t4cEsBx3tkO0lSUfECzUFsrLHJoX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
